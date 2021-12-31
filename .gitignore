@@ -1,3 +1,4 @@
 data/*
 *.pyc
 venv/*
+code/tb_logs/*
